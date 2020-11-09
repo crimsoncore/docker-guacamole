@@ -1,6 +1,4 @@
 # docker-guacamole
-# Image
-[![](https://images.microbadger.com/badges/image/tunip/guacamole.svg)](https://microbadger.com/images/tunip/guacamole "Get your own image badge on microbadger.com")
 
 # About
 ![Guacamole](https://github.com/tunip/docker-guacamole/raw/master/guacamole.png)
