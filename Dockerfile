@@ -1,6 +1,6 @@
 FROM debian:stretch
 
-ARG GUACAMOLE_VERSION="1.0.0"
+ARG GUACAMOLE_VERSION="1.3.0"
 ENV GUACAMOLE_HOME=/config
 
 COPY ./docker-entrypoint.sh /docker-entrypoint.sh
